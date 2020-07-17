@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### Things I work on
+
+[<img src="https://github.com/nos/visual-identity/blob/master/nos%20logo.png" width="32" height="32" align="center"> **nOS Client**](https://github.com/nos/client) — All-in-one platform for building, publishing, and discovering decentralized apps.
+
+---
+
+[View my personal website: **mauricedalderup.be**](https://mauricedalderup.be/)  
+[Follow me on twitter: **@mauricedalderup**](https://twitter.com/mauricedalderup)
+[Check out my IG business profile: **@mauricedalderup**](https://www.instagram.com/mauricedalderup/)
+
+👋
+
 <!--
 **DalderupMaurice/DalderupMaurice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
