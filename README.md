@@ -7,8 +7,9 @@
 ---
 
 [View my personal website: **mauricedalderup.be**](https://mauricedalderup.be/)  
-[Follow me on twitter: **@mauricedalderup**](https://twitter.com/mauricedalderup)
-[Check out my IG business profile: **@mauricedalderup**](https://www.instagram.com/mauricedalderup/)
+[Check out my IG business profile: **@mauricedalderup**](https://www.instagram.com/mauricedalderup/)  
+[Follow me on twitter: **@mauricedalderup**](https://twitter.com/mauricedalderup)  
+
 
 👋
 
