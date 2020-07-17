@@ -9,8 +9,6 @@
 [Follow me on twitter: **@mauricedalderup**](https://twitter.com/mauricedalderup)  
 
 
-👋
-
 <!--
 **DalderupMaurice/DalderupMaurice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
