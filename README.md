@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Things I work on
 
 [<img src="https://github.com/nos/visual-identity/blob/master/nos%20logo.png" width="32" height="32" align="center"> **nOS Client**](https://github.com/nos/client) — All-in-one platform for building, publishing, and discovering decentralized apps.
